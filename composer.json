@@ -1,0 +1,10 @@
+{
+    "name": "tomasfejfar/parrot",
+    "type": "library",
+    "require": {
+        "zendframework/zend-diactoros": "^2.1"
+    },
+    "autoload": {
+        "\\Tomasfejfar\\Parrot": "/src"
+    }
+}

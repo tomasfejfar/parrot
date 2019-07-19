@@ -1,0 +1,8 @@
+version: "3"
+services:
+  dev:
+      image: composer
+      volumes:
+        - .:/app
+      ports:
+        - 725:80
